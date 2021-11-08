@@ -65,3 +65,12 @@
     border-left: 0;
     border-right: 0;
 }
+
+.col-height-color {
+    height: 3em;
+    background-color: crimson;
+}
+
+.margin-col {
+    margin:0px 3px;
+}
