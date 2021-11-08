@@ -74,3 +74,52 @@
 .margin-col {
     margin:0px 3px;
 }
+
+.col-height {
+    height: 2.5em;
+}
+
+.margin-col {
+    margin:auto;
+}
+
+.margin-col2 {
+    margin-top: 2.5em;
+}
+
+.flex-round {
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+    height: 5em;
+    width: 100%;
+    align-items: center;
+}
+ 
+.col-nest-5 {
+    width: 20%;
+    height: 3em;
+    background-color: crimson;
+}
+
+.col-nest-6 {
+    width: 20%;
+    height: 3em;
+    margin: 0px 3px;
+    background-color: crimson;
+}
+
+.col-nest-7 {
+    width: 20%;
+    height: 3em;
+    background-color: crimson;
+} 
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    height: 5em;
+    width: 100%;
+    align-items: center;
+}
