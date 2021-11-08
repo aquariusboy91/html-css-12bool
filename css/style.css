@@ -58,5 +58,10 @@
 }
 
 .border-right {
-    border-left:0; 
+    border-right:0; 
+}
+
+.border-both {
+    border-left: 0;
+    border-right: 0;
 }
